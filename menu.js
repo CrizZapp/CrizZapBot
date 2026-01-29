@@ -1,0 +1,126 @@
+export const menuText = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮
+︶•︶°︶•︶°︶•︶°︶•︶°︶•︶°︶
+ ❀ Hola @@SALUDO @@USER, Soy ๑⁠❥๑⁠✧komi bot☆ﾟ⁠.⁠⁠･⁠｡ﾟ*, Aquí tienes la lista de comandos:
+
+╭┈ࠢ͜┅ࠦ͜͜╾݊͜─ؕ͜─ׄ͜─֬͜─֟͜─֫͜─ׄ͜─ؕࠦ͜┅ࠡ͜͜┈࠭͜͜
+│✠ Tipo » Prem-Bot
+│✰ Versión » 1.0.15
+│✠ Comandos » 159
+│✠ Canal » https://whatsapp.com/channel/0029VbBN8qCG3R3cZASjRO1I
+╰┈ࠢ͜──ׄ͜─ׄ͜─ׄ͜─ׄ͜─ׄ͜─ׄׄ͜͜─ׄ֟፝͜─̈́͜─̈́͜╯
+
+╭┈͜*¸✵°✰ MULTIMEDIA & AUDIO ✰.｡,¸.•✵*
+ᯓ★ #play
+ᯓ★ #yt
+ᯓ★ #ytaudio
+ᯓ★ #video
+ᯓ★ #tiktok / #tt
+ᯓ★ #translate
+ᯓ★ #lyrics / #lyric / #cancion
+ᯓ★ #audio
+ᯓ★ #tts
+ᯓ★ #escopeta
+ᯓ★ #tralalerita
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ STICKERS & IMÁGENES ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #toivideo
+ᯓ★ #toimage
+ᯓ★ #sticker / #s
+ᯓ★ #brat
+ᯓ★ #emojimix
+ᯓ★ #waifu
+ᯓ★ #pfp
+ᯓ★ #pin
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ ECONOMÍA ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #work
+ᯓ★ #daily
+ᯓ★ #fish
+ᯓ★ #ranking
+ᯓ★ #slut
+ᯓ★ #double
+ᯓ★ #steal <id>
+ᯓ★ #buyvip
+ᯓ★ #tienda
+ᯓ★ #comprar
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ JUEGOS & DIVERSIÓN ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #ppt
+ᯓ★ #ahorcado
+ᯓ★ #letra
+ᯓ★ #contar
+ᯓ★ #veteranff
+ᯓ★ #prueba
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ BETA ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #pelea
+ᯓ★ #app
+ᯓ★ #pagina
+ᯓ★ #toigif
+ᯓ★ #resumir /texto
+ᯓ★ #ia
+ᯓ★ #beta
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ COMANDOS BÁSICOS ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #hi / #bye
+ᯓ★ #menu / #help
+ᯓ★ #ping
+ᯓ★ #hora
+ᯓ★ #spam
+ᯓ★ #say
+ᯓ★ #tag
+ᯓ★ #miid
+ᯓ★ #owner / #creador
+ᯓ★ #pagina
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ ADMINISTRACIÓN ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #promote @user
+ᯓ★ #demote @user
+ᯓ★ #kick @user
+ᯓ★ #admin
+ᯓ★ #todos
+ᯓ★ #aviso <texto>
+ᯓ★ #close / #open
+ᯓ★ #welcome / #welcome off
+ᯓ★ #antilink / #antilink off
+ᯓ★ #antidelete
+ᯓ★ #add
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ NSFW & GACHA ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #nsfw on/off
+ᯓ★ #hentai
+ᯓ★ #rw
+ᯓ★ #regalornw
+ᯓ★ #vote / #votar / #sugerrw
+ᯓ★ #tiendarw
+ᯓ★ #senpai
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ REACCIONES ANIME ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #angry @user
+ᯓ★ #cry @user
+ᯓ★ #smoke
+ᯓ★ #kiss @user
+ᯓ★ #kill @user
+ᯓ★ #pelea @user
+ᯓ★ #hug @user
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
+
+╭┈͜*✵•.¸,✵°✵.｡.✰ EVENTOS ✰.｡.✵°✵,¸.•✵*
+ᯓ★ #regalo
+ᯓ★ #komibot
+ᯓ★ #cerezo
+ᯓ★ #evento
+ᯓ★ #animo
+ᯓ★ #texto
+ᯓ★ #cerezo
+╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ`;  
+export const menuImage =  
+"https://i.postimg.cc/85L1jXnF/images-(22).jpg";    
